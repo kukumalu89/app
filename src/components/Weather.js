@@ -39,7 +39,7 @@ function Weather() {
   };
   return (
     <div className="weather">
-      <span className="title">Weather App</span>
+      <span className="title">Weather Mounir</span>
       <br />
       <form>
         <input
